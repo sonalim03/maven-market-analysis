@@ -34,16 +34,25 @@ Analyze product performance by region
 
 🛠 Tools & Technologies Used
 Power BI
+
 DAX (Data Analysis Expressions)
+
 Data Modeling
+
 Data Visualization
+
 Business Intelligence Techniques
+
 
 📈 Key Insights Generated
 
 Identified top revenue-generating products
+
 Discovered high-value customer segments
+
 Detected slow-moving inventory items
+
 Analyzed factors contributing to product returns
+
 Evaluated store performance differences
 
