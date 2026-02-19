@@ -71,3 +71,4 @@ Evaluated store performance differences
 Dashboard Preview
 
 ![Sales Dashboard](images/sales.png)
+![Sales Dashboard](Images/1.png)
