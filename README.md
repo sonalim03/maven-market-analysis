@@ -1,4 +1,5 @@
 📊 Maven Market Analysis – Power BI Project
+
 📝 Project Overview
 
 This project is an end-to-end retail analytics dashboard built using Power BI. It analyzes Maven Market data to generate actionable business insights related to sales performance, customer behavior, product trends, store efficiency, and returns impact.
