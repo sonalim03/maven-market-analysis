@@ -7,6 +7,7 @@ This project is an end-to-end retail analytics dashboard built using Power BI. I
 The goal of this project is to support data-driven decision-making by visualizing key business metrics in an interactive and easy-to-understand format.
 
 🎯 Project Objectives
+
 🔹 1. Sales Analysis
 Visualize sales trends over time (monthly & yearly)
 Analyze sales performance by region, category, and customer segment
